@@ -2,9 +2,9 @@
 using namespace std;
 
 int n = 0, m = 0;
-int arr[9] = { 0 };
-int visited[9] = { 0 };
-int result[10] = { 0 };
+int arr[12] = { 0 };
+int visited[12] = { 0 };
+int result[12] = { 0 };
 void dfs(int cnt) {
 	if (cnt == m) {
 		for (int i = 0; i < m; i++)
