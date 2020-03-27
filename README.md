@@ -4,3 +4,6 @@
 백준아이디: gusdnr9875
 codeforceID: gusdnr9875
 instagram: iiiphyiii
+
+URL: https://www.acmicpc.net/user/gusdnr9875
+
